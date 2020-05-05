@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Container(
       child: AppBar(
-        title:Text("new"),
+        title:Text("Sudhan Pandey"),
       ),
       
     );
