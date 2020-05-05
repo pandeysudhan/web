@@ -39,10 +39,9 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: AppBar(
-        title:Text("Sudhan Pandey"),
-      ),
+    return Scaffold(
+      appBar: AppBar(title: Text("Sudhan")),
+     
       
     );
   }
